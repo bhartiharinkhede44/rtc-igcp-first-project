@@ -1,0 +1,26 @@
+ .heading{ 
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 50px;
+    
+    
+ }
+ .container{
+    display: flex;
+}   
+.cards{
+    height: 350px;
+    width: 350px;
+    box-shadow: 0px 0px 3px 2px gray;
+    margin: auto;
+    margin-top: 60px;
+    border-radius: 12px;
+}
+.name{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    
+
+}
